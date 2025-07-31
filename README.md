@@ -14,7 +14,7 @@ This project is a gladiator-style arena fighting game built in Unreal Engine 5.6
 ---
 
 ## ✅ Project Setup (Codex Instructions)
-
+IGNORE STEP 1 PROJECT FILES ALREADY CREATED AND UPLOADED> MOVE TO STEP 2.
 ### 🧱 Step 1: Create Project
 
 - Template: Games → Blank
